@@ -56,7 +56,6 @@ If these commands print out a version number in the terminal, you are good to go
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-[Click here](https://marsiya-fcc-extracker.glitch.me) to view live demo on [Glitch](https://glitch.com/)
 
 1. The user can create and save a new username
  ![Create user](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617839141/My%20Website%20Projects/react_extracker1_rlhsap.png)
