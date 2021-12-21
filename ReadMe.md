@@ -27,6 +27,7 @@ This is a Node. js (with Express. js) and MongoDb application. React Exercise tr
 
 ## Getting Started
 Using it on your local machine
+
 ### Prerequisites
 You need to have Node, yarn and npm installed on your machine. To check if they are installed, open up a terminal window and type the following:
  ```sh
@@ -41,32 +42,18 @@ If these commands print out a version number in the terminal, you are good to go
 
 1. Clone the repo on your local machine
    ```sh
-   git clone https://github.com/Mar-Issah/React-Exercise-Tracker.git
+   git clone https://github.com/Mar-Issah/PERN-Todo-List.git
    ```
 2. Change directory into the new folder and type the following, this installs the required dependencies
     ```sh
     npm install
    ```
-3. To run the React project
+3. To run the React project(server and client)
    ```sh
    npm start
    ```
 
 <br>
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-1. The user can create and save a new username
- ![Create user](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617839141/My%20Website%20Projects/react_extracker1_rlhsap.png)
-
-2. The user can create a new exercise by completing the username, description, duration and date fields. The app uses a date picker, if the user does not pick a date, the current date is selected by default
- ![Create Exercise](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617839138/My%20Website%20Projects/react_extracker2_gpmalb.png)
-
-3. The user can view the list of previous exercises. The are two buttons which allows the user to edit or delete exercise log
- ![View Exercise](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617839139/My%20Website%20Projects/react_extracker_bl5xp8.png)
-   
    
 <br>
 <!-- CONTRIBUTING -->
@@ -96,6 +83,6 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah : masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/React-Exercise-Tracker.git](https://github.com/Mar-Issah/React-Exercise-Tracker.git)
+Project Link: [https://github.com/Mar-Issah/PERN-Todo-List.git](https://github.com/Mar-Issah/PERN-Todo-List.git)
 
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
