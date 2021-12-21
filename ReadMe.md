@@ -42,7 +42,7 @@ If these commands print out a version number in the terminal, you are good to go
 
 1. Clone the repo on your local machine
    ```sh
-   git clone https://github.com/Mar-Issah/PERN-Todo-List.git
+   git clone https://github.com/Mar-Issah/React-Exercise-Tracker.git
    ```
 2. Change directory into the new folder and type the following, this installs the required dependencies
     ```sh
@@ -83,6 +83,6 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah : masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/PERN-Todo-List.git](https://github.com/Mar-Issah/PERN-Todo-List.git)
+Project Link: [https://github.com/Mar-Issah/React-Exercise-Tracker.git](https://github.com/Mar-Issah/React-Exercise-Tracker.git)
 
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
