@@ -26,7 +26,7 @@ This is a Node. js (with Express. js) and MongoDb application. React Exercise tr
 <!-- GETTING STARTED -->
 
 ## Getting Started
-Using it on your local machine
+Using it on your local machine.
 
 ### Prerequisites
 You need to have Node, yarn and npm installed on your machine. To check if they are installed, open up a terminal window and type the following:
