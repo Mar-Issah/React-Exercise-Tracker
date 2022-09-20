@@ -44,7 +44,7 @@ If these commands print out a version number in the terminal, you are good to go
    ```sh
    git clone https://github.com/Mar-Issah/React-Exercise-Tracker.git
    ```
-2. Change directory into the new folder and type the following, this installs the required dependencies
+2. Change directory into the new folder and type the following, this installs the required dependencies.
     ```sh
     npm install
    ```
