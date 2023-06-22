@@ -36,7 +36,7 @@ yarn -v
 node -v
    ```
    
-If these commands print out a version number in the terminal, you are good to go. If not, you need to go ahead and install what is missing. For the purpose of this project, I used [Node](https://nodejs.org/en/)
+If these commands print out a version number in the terminal, you are good to go. If not, you need to go ahead and install what is missing. For the purpose of this project, I used [Node.js](https://nodejs.org/en/)
 
 ### Installation
 
