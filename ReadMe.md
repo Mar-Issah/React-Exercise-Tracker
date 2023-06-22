@@ -83,6 +83,6 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah : masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/React-Exercise-Tracker.git](https://github.com/Mar-Issah/React-Exercise-Tracker.git)
+Project Link: [https://github.com/Mar-Issah/React-Exercise-Tracker.git](https://github.com/Mar-Issah/React-Exercise-Tracker.git).
 
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/).
