@@ -48,7 +48,7 @@ If these commands print out a version number in the terminal, you are good to go
     ```sh
     npm install
    ```
-3. To run the React project(server and client).
+3. To run the React project(Server and client).
    ```sh
    npm start
    ```
