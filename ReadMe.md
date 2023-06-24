@@ -3,7 +3,7 @@
 A project to practice my skills in Node.js/ Express.js and MongoDb.
 
 ## About The Project
-This is a Node. js (with Express. js) and MongoDb application. React Exercise tracker is a Web application which allows user to create and store username and exercises (Description, Duration and Date).
+This is a Node. js (with Express. js) and MongoDb application. React Exercise tracker is a Web Application which allows user to create and store username and exercises (Description, Duration and Date).
 
 ![React Exercise Tracker](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617839139/My%20Website%20Projects/react_extracker_bl5xp8.png)
 
